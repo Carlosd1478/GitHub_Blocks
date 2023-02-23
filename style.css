@@ -1,0 +1,44 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container {
+    width: 150px;
+    background-color: lightgray;
+    margin: 0 auto;
+
+}
+h1 {
+    text-align: center;
+    font-size: 10px;
+    padding-top: 2px;
+    margin-bottom: -2px;
+}
+img {
+    height: 30px;
+}
+.row1 {
+    height: 40px;
+    background-color: rgb(95, 95, 164);
+    margin: 5px 10px;
+}
+
+.row2 {
+    height: 40px;
+    background-color: pink;
+    margin: 5px 10px;
+}
+
+.row3 {
+    height: 40px;
+    background-color: white;
+    margin: 5px 10px;
+}
+
+p {
+    font-size: 3px;
+    text-align: center;
+    padding-bottom: 5px;
+}
